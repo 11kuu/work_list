@@ -5,4 +5,4 @@ A simple Python script for managing tasks efficiently. This script allows users 
 
 ## Requirements
 
-* Python 3
+* Python 3 +
